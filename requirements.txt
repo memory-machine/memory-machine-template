@@ -1,0 +1,3 @@
+python-dotenv >= 1.0.0
+symposium >= 0.1.0
+memory-machine >= 0.0.3
